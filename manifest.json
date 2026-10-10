@@ -11,19 +11,19 @@
       "sha256": "9fd9f228dd73dfa65be3d7ea33287963b154975c1dd6eed9a0a2ea8d092ccb27"
     },
     "blockTints": {
-      "bytes": 1808,
+      "bytes": 2105,
       "file": "block-tints.json",
       "provenance": {
-        "description": "MineRender block-preview tint rules without biome context. Constant leaf and water colors are preview choices. Rules are included only when the target block registry contains the block.",
+        "description": "MineRender preview tint rules and biome color sources. Constant colors apply without biome context; biome fields select grass, foliage, dry foliage, or water colors during world rendering. Rules are included only when the target block registry contains the block.",
         "excludedAbsentBlocks": [
           "minecraft:grass"
         ],
         "kind": "reviewed-preview-policy",
-        "source": "https://github.com/InventivetalentDev/MineRender/blob/1da970e6b4efb5d6c44ab420c71f98076ff505fd/packages/minerender/src/model/block/blockTints.json",
-        "sourceSha256": "e1d4f62fcf6ecf787b170def794e634179ed37a0650a1b4023832df1e0c0d03a",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/a18a06eabc3332e40f919c20d7f60c54952cd4cf/packages/minerender/src/model/block/blockTints.json",
+        "sourceSha256": "6484f895042379498da054abdea2be555589d4a8c168252f69eb3378c48d76b7",
         "targetVersion": "26.1.2"
       },
-      "sha256": "643428ba735d8573c4c18e96b5e92ec9c8699fa6b9e3eb1580de532f7116b89c"
+      "sha256": "48320b5964d3a01c972d844db5cf2f582e5b4fbc580e748552d6b361c1b3f6aa"
     },
     "dyes": {
       "bytes": 1979,
@@ -91,8 +91,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "bad42cac6ecd2db1a1bf3c9b4821bf96ac9269de",
-    "sha256": "cadaaf527628e77d79c02d5ddab5f299ef50e7ea41884d3d7b7ea476370cada9"
+    "revision": "8c96abbc8f792091c0237ea1a9e1b7ad3aa7c5e9",
+    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
   },
   "minecraftVersion": "26.1.2",
   "schemaVersion": 1,
