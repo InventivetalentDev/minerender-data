@@ -90,8 +90,9 @@
     }
   },
   "extractor": {
-    "revision": "69cea67204d77c5d0af2aea43e7cc5fe1c3ced1a",
-    "sha256": "038f82750307588338d7c0735659b602468db0d3b6c87f9114493e9693d5bff3"
+    "repository": "InventivetalentDev/minecraft-extractors",
+    "revision": "82c267966ac658e227f025ed1313ed0d515c8a2a",
+    "sha256": "0d004b2e26c00670250cec9787de86745df1a4029b45ec3d88aa4b0955762a93"
   },
   "minecraftVersion": "1.21.11",
   "schemaVersion": 1,
