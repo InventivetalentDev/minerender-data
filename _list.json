@@ -1,0 +1,14 @@
+{
+  "directories": [],
+  "files": [
+    "block-states.json",
+    "block-tints.json",
+    "dyes.json",
+    "fluids.json",
+    "item-defaults.json",
+    "legacy-blocks.json",
+    "manifest.json",
+    "potion-colors.json",
+    "version.json"
+  ]
+}

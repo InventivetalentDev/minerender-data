@@ -1,0 +1,96 @@
+{
+  "minecraft:acacia_leaves": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:attached_melon_stem": {
+    "color": 14731036,
+    "source": "constant"
+  },
+  "minecraft:attached_pumpkin_stem": {
+    "color": 14731036,
+    "source": "constant"
+  },
+  "minecraft:birch_leaves": {
+    "color": 8431445,
+    "source": "constant"
+  },
+  "minecraft:bush": {
+    "source": "grass"
+  },
+  "minecraft:dark_oak_leaves": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:fern": {
+    "source": "grass"
+  },
+  "minecraft:grass_block": {
+    "source": "grass"
+  },
+  "minecraft:jungle_leaves": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:large_fern": {
+    "source": "grass"
+  },
+  "minecraft:leaf_litter": {
+    "color": 6044722,
+    "source": "constant"
+  },
+  "minecraft:lily_pad": {
+    "color": 7455580,
+    "source": "constant"
+  },
+  "minecraft:mangrove_leaves": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:melon_stem": {
+    "source": "stem"
+  },
+  "minecraft:oak_leaves": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:pink_petals": {
+    "source": "grass",
+    "untinted": [
+      0
+    ]
+  },
+  "minecraft:potted_fern": {
+    "source": "grass"
+  },
+  "minecraft:pumpkin_stem": {
+    "source": "stem"
+  },
+  "minecraft:redstone_wire": {
+    "source": "redstone"
+  },
+  "minecraft:short_grass": {
+    "source": "grass"
+  },
+  "minecraft:spruce_leaves": {
+    "color": 6396257,
+    "source": "constant"
+  },
+  "minecraft:tall_grass": {
+    "source": "grass"
+  },
+  "minecraft:vine": {
+    "color": 4764952,
+    "source": "constant"
+  },
+  "minecraft:water_cauldron": {
+    "color": 4159204,
+    "source": "constant"
+  },
+  "minecraft:wildflowers": {
+    "source": "grass",
+    "untinted": [
+      0
+    ]
+  }
+}
