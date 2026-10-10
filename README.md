@@ -18,7 +18,7 @@ Initial verified versions: **1.21.5** and **1.21.11**. Data is extracted indepen
 
 Registry IDs include their namespace. Block properties preserve MineRender's `default`, `type`, `valueType`, and `values` fields; enum values use vanilla's serialized names. [Source provenance](https://github.com/InventivetalentDev/minecraft-extractors/blob/main/extractors/minerender-data/sources/provenance.json) pins reviewed inputs, supported target versions, attribution, and corrections. The legacy mapping derives from WorldEdit's mapping through MineRender; two wall entries explicitly translate old boolean sides to modern `none` values.
 
-Each version includes `version.json` with its Mojang manifest entry, `_list.json`, and `manifest.json`. The manifest records schema version, Minecraft version/data version, client/mapping hashes, extractor Git revision and content hash, per-file SHA-256 hashes, and validation counts. An unsupported reviewed dataset appears in `unavailable` and has no data file. Consumers must check availability and use exact versions; an absent dataset is not an empty registry.
+Each version includes `version.json` with its Mojang manifest entry, `_list.json`, and `manifest.json`. The manifest records schema version, Minecraft version/data version, client/mapping hashes, extractor repository (`extractor.repository`), Git revision and content hash, per-file SHA-256 hashes, and validation counts. An unsupported reviewed dataset appears in `unavailable` and has no data file. Consumers must check availability and use exact versions; an absent dataset is not an empty registry.
 
 ## Extraction and publication
 
