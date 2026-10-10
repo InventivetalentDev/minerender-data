@@ -49,13 +49,13 @@
       "sha256": "315a6d76d0c62719693611909bcd75529f63fd5fa7173613abafbac30c567d93"
     },
     "itemDefaults": {
-      "bytes": 83579,
+      "bytes": 17827,
       "file": "item-defaults.json",
       "provenance": {
         "kind": "vanilla-runtime",
         "registry": "itemDefaults"
       },
-      "sha256": "7c7b6af7fcbcd2f4e5080a7d3cf895632a01e388a41741e80ef07dde998f0d0b"
+      "sha256": "46af03e2d9e72e19747251a9d683f3ad18aff34178583b0197edd331d7d5718e"
     },
     "legacyBlocks": {
       "bytes": 110589,
@@ -101,8 +101,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "cc570cbf84bfdab334ef62c5de591821d5f26f35",
-    "sha256": "7defcb4d97cac57ff27f6b83c447f8c5b58f611cabb71e95bb5e1dfb835ab970"
+    "revision": "bad42cac6ecd2db1a1bf3c9b4821bf96ac9269de",
+    "sha256": "cadaaf527628e77d79c02d5ddab5f299ef50e7ea41884d3d7b7ea476370cada9"
   },
   "minecraftVersion": "1.17.1",
   "schemaVersion": 1,
