@@ -58,7 +58,7 @@
       "sha256": "7c7b6af7fcbcd2f4e5080a7d3cf895632a01e388a41741e80ef07dde998f0d0b"
     },
     "legacyBlocks": {
-      "bytes": 109589,
+      "bytes": 110589,
       "file": "legacy-blocks.json",
       "provenance": {
         "corrections": {
@@ -78,16 +78,16 @@
             "to": "minecraft:grass"
           }
         },
-        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name and cauldron updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
+        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name, cauldron, and suspended tripwire updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
         "kind": "reviewed-legacy-mapping",
-        "source": "https://github.com/InventivetalentDev/MineRender/blob/2b4f3c3afb2e2107d2e7f7e4d1d2b2a8605f448e/packages/minerender/src/model/multiblock/legacyBlocks.json",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/7721b8f96ce1f87bd39cc8a9f3b879394da92d74/packages/minerender/src/model/multiblock/legacyBlocks.json",
         "sourceFormat": "numeric-block-id:metadata",
         "sourceMaxMinecraftVersion": "1.12.2",
-        "sourceSha256": "50d1b0714ac6985b4d7252d90f253383575216cbd458393c95c197c5f9f26313",
+        "sourceSha256": "1cd2511e19051ed199f6f2185cd3b95a5936bd1ae847baf714c7414690ac6d93",
         "targetVersion": "1.17.1",
         "upstream": "https://github.com/EngineHub/WorldEdit/blob/master/worldedit-core/src/main/resources/com/sk89q/worldedit/world/registry/legacy.json"
       },
-      "sha256": "a5a719b194c1bf6890a31e1ad252dd514918740a02b24f913bdabd0e93b7a7ac"
+      "sha256": "b9d596eaafb8d7ac08210545e4431a78b8d35ceb53f1446d71d8720eca4baaed"
     },
     "potionColors": {
       "bytes": 6055,
@@ -101,8 +101,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "6080c62ad61f80ade82471b661ad06dbda8ca142",
-    "sha256": "3e551b0906fc5f32f7763cd478045e69fd42f1d28c3403c39f6c61d29b0049a6"
+    "revision": "cc570cbf84bfdab334ef62c5de591821d5f26f35",
+    "sha256": "7defcb4d97cac57ff27f6b83c447f8c5b58f611cabb71e95bb5e1dfb835ab970"
   },
   "minecraftVersion": "1.17.1",
   "schemaVersion": 1,
