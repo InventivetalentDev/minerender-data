@@ -1,0 +1,51 @@
+{
+  "block-tints.json": {
+    "source": "https://github.com/InventivetalentDev/MineRender/blob/1da970e6b4efb5d6c44ab420c71f98076ff505fd/packages/minerender/src/model/block/blockTints.json",
+    "sha256": "e1d4f62fcf6ecf787b170def794e634179ed37a0650a1b4023832df1e0c0d03a",
+    "reviewedTargets": [
+      "1.21.5",
+      "1.21.11"
+    ],
+    "kind": "reviewed-preview-policy",
+    "description": "MineRender block-preview tint rules without biome context. Constant leaf and water colors are preview choices. Rules are included only when the target block registry contains the block."
+  },
+  "legacy-blocks.json": {
+    "source": "https://github.com/InventivetalentDev/MineRender/blob/2b4f3c3afb2e2107d2e7f7e4d1d2b2a8605f448e/packages/minerender/src/model/multiblock/legacyBlocks.json",
+    "sha256": "50d1b0714ac6985b4d7252d90f253383575216cbd458393c95c197c5f9f26313",
+    "reviewedTargets": [
+      "1.21.5",
+      "1.21.11"
+    ],
+    "kind": "reviewed-legacy-mapping",
+    "upstream": "https://github.com/EngineHub/WorldEdit/blob/master/worldedit-core/src/main/resources/com/sk89q/worldedit/world/registry/legacy.json",
+    "sourceFormat": "numeric-block-id:metadata",
+    "sourceMaxMinecraftVersion": "1.12.2",
+    "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name and cauldron updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
+    "targetCorrections": {
+      "1.21.5": {
+        "139:0": {
+          "from": "minecraft:cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+          "to": "minecraft:cobblestone_wall[east=none,south=none,north=none,west=none,up=false]",
+          "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none."
+        },
+        "139:1": {
+          "from": "minecraft:mossy_cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+          "to": "minecraft:mossy_cobblestone_wall[east=none,south=none,north=none,west=none,up=false]",
+          "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none."
+        }
+      },
+      "1.21.11": {
+        "139:0": {
+          "from": "minecraft:cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+          "to": "minecraft:cobblestone_wall[east=none,south=none,north=none,west=none,up=false]",
+          "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none."
+        },
+        "139:1": {
+          "from": "minecraft:mossy_cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+          "to": "minecraft:mossy_cobblestone_wall[east=none,south=none,north=none,west=none,up=false]",
+          "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none."
+        }
+      }
+    }
+  }
+}
