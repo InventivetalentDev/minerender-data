@@ -11,7 +11,7 @@
       "sha256": "969c86bca3ef7eebca97915c190efe6a904fa5cb0206ba060aff35f88843b26b"
     },
     "blockTints": {
-      "bytes": 1403,
+      "bytes": 1648,
       "file": "block-tints.json",
       "provenance": {
         "aliases": {
@@ -28,7 +28,7 @@
             "reason": "Before Minecraft 1.17, filled cauldrons use cauldron with a level property. Only their water faces are tinted."
           }
         },
-        "description": "MineRender block-preview tint rules without biome context. Constant leaf and water colors are preview choices. Rules are included only when the target block registry contains the block.",
+        "description": "MineRender preview tint rules and biome color sources. Constant colors apply without biome context; biome fields select grass, foliage, dry foliage, or water colors during world rendering. Rules are included only when the target block registry contains the block.",
         "excludedAbsentBlocks": [
           "minecraft:bush",
           "minecraft:leaf_litter",
@@ -39,11 +39,11 @@
           "minecraft:wildflowers"
         ],
         "kind": "reviewed-preview-policy",
-        "source": "https://github.com/InventivetalentDev/MineRender/blob/1da970e6b4efb5d6c44ab420c71f98076ff505fd/packages/minerender/src/model/block/blockTints.json",
-        "sourceSha256": "e1d4f62fcf6ecf787b170def794e634179ed37a0650a1b4023832df1e0c0d03a",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/a18a06eabc3332e40f919c20d7f60c54952cd4cf/packages/minerender/src/model/block/blockTints.json",
+        "sourceSha256": "6484f895042379498da054abdea2be555589d4a8c168252f69eb3378c48d76b7",
         "targetVersion": "1.16.5"
       },
-      "sha256": "9f816550096a5fc0e6d2ecc52f795d7f4d76b31326fca5b1cfaa4e4929227c70"
+      "sha256": "972be4957d742a2c6395c9da67fd3f1210c634a6b1c494f4d496bfc9c3702531"
     },
     "dyes": {
       "bytes": 1979,
@@ -136,8 +136,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "bad42cac6ecd2db1a1bf3c9b4821bf96ac9269de",
-    "sha256": "cadaaf527628e77d79c02d5ddab5f299ef50e7ea41884d3d7b7ea476370cada9"
+    "revision": "8c96abbc8f792091c0237ea1a9e1b7ad3aa7c5e9",
+    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
   },
   "minecraftVersion": "1.16.5",
   "schemaVersion": 1,
