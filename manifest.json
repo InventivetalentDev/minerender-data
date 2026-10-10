@@ -53,7 +53,7 @@
       "sha256": "87517ab03271a0990e92b8c593f7a6d612e8e3485ddcc5658b818218e9437545"
     },
     "legacyBlocks": {
-      "bytes": 109595,
+      "bytes": 110595,
       "file": "legacy-blocks.json",
       "provenance": {
         "corrections": {
@@ -68,16 +68,16 @@
             "to": "minecraft:mossy_cobblestone_wall[east=none,south=none,north=none,west=none,up=false]"
           }
         },
-        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name and cauldron updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
+        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name, cauldron, and suspended tripwire updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
         "kind": "reviewed-legacy-mapping",
-        "source": "https://github.com/InventivetalentDev/MineRender/blob/2b4f3c3afb2e2107d2e7f7e4d1d2b2a8605f448e/packages/minerender/src/model/multiblock/legacyBlocks.json",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/7721b8f96ce1f87bd39cc8a9f3b879394da92d74/packages/minerender/src/model/multiblock/legacyBlocks.json",
         "sourceFormat": "numeric-block-id:metadata",
         "sourceMaxMinecraftVersion": "1.12.2",
-        "sourceSha256": "50d1b0714ac6985b4d7252d90f253383575216cbd458393c95c197c5f9f26313",
+        "sourceSha256": "1cd2511e19051ed199f6f2185cd3b95a5936bd1ae847baf714c7414690ac6d93",
         "targetVersion": "1.21.11",
         "upstream": "https://github.com/EngineHub/WorldEdit/blob/master/worldedit-core/src/main/resources/com/sk89q/worldedit/world/registry/legacy.json"
       },
-      "sha256": "4b0683e96189840bff1542d644cfb00edf6e5f13b8bd3b4c8f48114af18e84ae"
+      "sha256": "b06ec0a9c9c1792c69a6a8d4a345aeb6ae3e65ab048916fc01491d0b71976a76"
     },
     "potionColors": {
       "bytes": 6774,
@@ -91,8 +91,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "82c267966ac658e227f025ed1313ed0d515c8a2a",
-    "sha256": "0d004b2e26c00670250cec9787de86745df1a4029b45ec3d88aa4b0955762a93"
+    "revision": "cc570cbf84bfdab334ef62c5de591821d5f26f35",
+    "sha256": "7defcb4d97cac57ff27f6b83c447f8c5b58f611cabb71e95bb5e1dfb835ab970"
   },
   "minecraftVersion": "1.21.11",
   "schemaVersion": 1,
