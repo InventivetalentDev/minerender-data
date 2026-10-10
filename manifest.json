@@ -11,10 +11,10 @@
       "sha256": "078d064ce2078701fecfdb1cd69cb62aff5a6250ab9001fb772025eedd13673a"
     },
     "blockTints": {
-      "bytes": 1409,
+      "bytes": 1654,
       "file": "block-tints.json",
       "provenance": {
-        "description": "MineRender block-preview tint rules without biome context. Constant leaf and water colors are preview choices. Rules are included only when the target block registry contains the block.",
+        "description": "MineRender preview tint rules and biome color sources. Constant colors apply without biome context; biome fields select grass, foliage, dry foliage, or water colors during world rendering. Rules are included only when the target block registry contains the block.",
         "excludedAbsentBlocks": [
           "minecraft:bush",
           "minecraft:leaf_litter",
@@ -24,11 +24,11 @@
           "minecraft:wildflowers"
         ],
         "kind": "reviewed-preview-policy",
-        "source": "https://github.com/InventivetalentDev/MineRender/blob/1da970e6b4efb5d6c44ab420c71f98076ff505fd/packages/minerender/src/model/block/blockTints.json",
-        "sourceSha256": "e1d4f62fcf6ecf787b170def794e634179ed37a0650a1b4023832df1e0c0d03a",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/a18a06eabc3332e40f919c20d7f60c54952cd4cf/packages/minerender/src/model/block/blockTints.json",
+        "sourceSha256": "6484f895042379498da054abdea2be555589d4a8c168252f69eb3378c48d76b7",
         "targetVersion": "1.17.1"
       },
-      "sha256": "edd9dc56769cd9bd2cfd78db030f695f36d32d71236f95eec5bad4b7594c75a9"
+      "sha256": "9a9893f4c007bb74fe112c914697532e6d9508b7582e6b4dcf3cc747c8114642"
     },
     "dyes": {
       "bytes": 1979,
@@ -101,8 +101,8 @@
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "bad42cac6ecd2db1a1bf3c9b4821bf96ac9269de",
-    "sha256": "cadaaf527628e77d79c02d5ddab5f299ef50e7ea41884d3d7b7ea476370cada9"
+    "revision": "8c96abbc8f792091c0237ea1a9e1b7ad3aa7c5e9",
+    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
   },
   "minecraftVersion": "1.17.1",
   "schemaVersion": 1,

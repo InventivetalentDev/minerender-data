@@ -1,5 +1,6 @@
 {
   "minecraft:acacia_leaves": {
+    "biome": "foliage",
     "color": 4764952,
     "source": "constant"
   },
@@ -16,6 +17,7 @@
     "source": "constant"
   },
   "minecraft:dark_oak_leaves": {
+    "biome": "foliage",
     "color": 4764952,
     "source": "constant"
   },
@@ -29,6 +31,7 @@
     "source": "grass"
   },
   "minecraft:jungle_leaves": {
+    "biome": "foliage",
     "color": 4764952,
     "source": "constant"
   },
@@ -43,6 +46,7 @@
     "source": "stem"
   },
   "minecraft:oak_leaves": {
+    "biome": "foliage",
     "color": 4764952,
     "source": "constant"
   },
@@ -59,14 +63,21 @@
     "color": 6396257,
     "source": "constant"
   },
+  "minecraft:sugar_cane": {
+    "biome": "grass",
+    "color": 16777215,
+    "source": "constant"
+  },
   "minecraft:tall_grass": {
     "source": "grass"
   },
   "minecraft:vine": {
+    "biome": "foliage",
     "color": 4764952,
     "source": "constant"
   },
   "minecraft:water_cauldron": {
+    "biome": "water",
     "color": 4159204,
     "source": "constant"
   }
