@@ -1,0 +1,171 @@
+{
+  "dataVersion": 2586,
+  "datasets": {
+    "blockStates": {
+      "bytes": 221145,
+      "file": "block-states.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockStates"
+      },
+      "sha256": "969c86bca3ef7eebca97915c190efe6a904fa5cb0206ba060aff35f88843b26b"
+    },
+    "blockTints": {
+      "bytes": 1403,
+      "file": "block-tints.json",
+      "provenance": {
+        "aliases": {
+          "minecraft:cauldron": {
+            "from": "minecraft:water_cauldron",
+            "properties": {
+              "level": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            "reason": "Before Minecraft 1.17, filled cauldrons use cauldron with a level property. Only their water faces are tinted."
+          }
+        },
+        "description": "MineRender block-preview tint rules without biome context. Constant leaf and water colors are preview choices. Rules are included only when the target block registry contains the block.",
+        "excludedAbsentBlocks": [
+          "minecraft:bush",
+          "minecraft:leaf_litter",
+          "minecraft:mangrove_leaves",
+          "minecraft:pink_petals",
+          "minecraft:short_grass",
+          "minecraft:water_cauldron",
+          "minecraft:wildflowers"
+        ],
+        "kind": "reviewed-preview-policy",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/1da970e6b4efb5d6c44ab420c71f98076ff505fd/packages/minerender/src/model/block/blockTints.json",
+        "sourceSha256": "e1d4f62fcf6ecf787b170def794e634179ed37a0650a1b4023832df1e0c0d03a",
+        "targetVersion": "1.16.5"
+      },
+      "sha256": "9f816550096a5fc0e6d2ecc52f795d7f4d76b31326fca5b1cfaa4e4929227c70"
+    },
+    "dyes": {
+      "bytes": 1979,
+      "file": "dyes.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "dyes"
+      },
+      "sha256": "84da4d30848abb3a50c4a4d30df9e943480b3fac52f96e9656f43a53253eeaa9"
+    },
+    "fluids": {
+      "bytes": 598,
+      "file": "fluids.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "fluids"
+      },
+      "sha256": "315a6d76d0c62719693611909bcd75529f63fd5fa7173613abafbac30c567d93"
+    },
+    "itemDefaults": {
+      "bytes": 74309,
+      "file": "item-defaults.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "itemDefaults"
+      },
+      "sha256": "d41be7f50af662c18c3a824d5412ea0897d3cb288f0bc8597fd99c57e32f03d8"
+    },
+    "legacyBlocks": {
+      "bytes": 109572,
+      "file": "legacy-blocks.json",
+      "provenance": {
+        "corrections": {
+          "118:1": {
+            "from": "minecraft:water_cauldron[level=1]",
+            "reason": "Before Minecraft 1.17, filled cauldrons use cauldron with a level property.",
+            "to": "minecraft:cauldron[level=1]"
+          },
+          "118:2": {
+            "from": "minecraft:water_cauldron[level=2]",
+            "reason": "Before Minecraft 1.17, filled cauldrons use cauldron with a level property.",
+            "to": "minecraft:cauldron[level=2]"
+          },
+          "118:3": {
+            "from": "minecraft:water_cauldron[level=3]",
+            "reason": "Before Minecraft 1.17, filled cauldrons use cauldron with a level property.",
+            "to": "minecraft:cauldron[level=3]"
+          },
+          "139:0": {
+            "from": "minecraft:cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+            "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none.",
+            "to": "minecraft:cobblestone_wall[east=none,south=none,north=none,west=none,up=false]"
+          },
+          "139:1": {
+            "from": "minecraft:mossy_cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+            "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none.",
+            "to": "minecraft:mossy_cobblestone_wall[east=none,south=none,north=none,west=none,up=false]"
+          },
+          "208:0": {
+            "from": "minecraft:dirt_path",
+            "reason": "Before Minecraft 1.17, dirt paths use the grass_path block ID.",
+            "to": "minecraft:grass_path"
+          },
+          "31:1": {
+            "from": "minecraft:short_grass",
+            "reason": "Before Minecraft 1.20.3, short grass uses the grass block ID.",
+            "to": "minecraft:grass"
+          }
+        },
+        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name and cauldron updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
+        "kind": "reviewed-legacy-mapping",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/2b4f3c3afb2e2107d2e7f7e4d1d2b2a8605f448e/packages/minerender/src/model/multiblock/legacyBlocks.json",
+        "sourceFormat": "numeric-block-id:metadata",
+        "sourceMaxMinecraftVersion": "1.12.2",
+        "sourceSha256": "50d1b0714ac6985b4d7252d90f253383575216cbd458393c95c197c5f9f26313",
+        "targetVersion": "1.16.5",
+        "upstream": "https://github.com/EngineHub/WorldEdit/blob/master/worldedit-core/src/main/resources/com/sk89q/worldedit/world/registry/legacy.json"
+      },
+      "sha256": "c1479727ed537d48539f56c880562b7947b9ab40fc3ab2e9aa5fdff9212cd49b"
+    },
+    "potionColors": {
+      "bytes": 6055,
+      "file": "potion-colors.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "potionColors"
+      },
+      "sha256": "547fe5f4cde2701868b97b99ea4f860988cc29b2bf3536354018cda9c331b027"
+    }
+  },
+  "extractor": {
+    "repository": "InventivetalentDev/minecraft-extractors",
+    "revision": "6080c62ad61f80ade82471b661ad06dbda8ca142",
+    "sha256": "3e551b0906fc5f32f7763cd478045e69fd42f1d28c3403c39f6c61d29b0049a6"
+  },
+  "minecraftVersion": "1.16.5",
+  "schemaVersion": 1,
+  "source": {
+    "client": {
+      "sha1": "37fd3c903861eeff3bc24b71eed48f828b5269c8",
+      "url": "https://piston-data.mojang.com/v1/objects/37fd3c903861eeff3bc24b71eed48f828b5269c8/client.jar"
+    },
+    "mappings": {
+      "sha1": "374c6b789574afbdc901371207155661e0509e17",
+      "url": "https://piston-data.mojang.com/v1/objects/374c6b789574afbdc901371207155661e0509e17/client.txt"
+    },
+    "metadata": {
+      "sha1": "fba9f7833e858a1257d810d21a3a9e3c967f9077",
+      "url": "https://piston-meta.mojang.com/v1/packages/fba9f7833e858a1257d810d21a3a9e3c967f9077/1.16.5.json"
+    },
+    "remapper": {
+      "sha1": "59bd788e0a1bd339256711dee40015a62cdf3cd2",
+      "version": "2.0.18"
+    }
+  },
+  "unavailable": {},
+  "validation": {
+    "effectMixtures": 192,
+    "itemSamples": 5005,
+    "potionColors": 43,
+    "unavailableChecks": {
+      "durabilityBars": "Minecraft 1.16.5 does not expose native durability bar methods."
+    }
+  }
+}
