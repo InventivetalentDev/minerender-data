@@ -1,0 +1,131 @@
+{
+  "dataVersion": 3465,
+  "datasets": {
+    "blockStates": {
+      "bytes": 309886,
+      "file": "block-states.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockStates"
+      },
+      "sha256": "b994b9d2343d6a83c9324d9cb1de169fae417ea8dd6b4ca2ac34f6847d74d252"
+    },
+    "blockTints": {
+      "bytes": 1852,
+      "file": "block-tints.json",
+      "provenance": {
+        "description": "MineRender preview tint rules and biome color sources. Constant colors apply without biome context; biome fields select grass, foliage, dry foliage, or water colors during world rendering. Rules are included only when the target block registry contains the block.",
+        "excludedAbsentBlocks": [
+          "minecraft:bush",
+          "minecraft:leaf_litter",
+          "minecraft:short_grass",
+          "minecraft:wildflowers"
+        ],
+        "kind": "reviewed-preview-policy",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/a18a06eabc3332e40f919c20d7f60c54952cd4cf/packages/minerender/src/model/block/blockTints.json",
+        "sourceSha256": "6484f895042379498da054abdea2be555589d4a8c168252f69eb3378c48d76b7",
+        "targetVersion": "1.20.1"
+      },
+      "sha256": "cea51cebfcc706172c3cb747d14715ff7284839438154c7ea9e8f5c20d9280f3"
+    },
+    "dyes": {
+      "bytes": 1979,
+      "file": "dyes.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "dyes"
+      },
+      "sha256": "84da4d30848abb3a50c4a4d30df9e943480b3fac52f96e9656f43a53253eeaa9"
+    },
+    "fluids": {
+      "bytes": 598,
+      "file": "fluids.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "fluids"
+      },
+      "sha256": "315a6d76d0c62719693611909bcd75529f63fd5fa7173613abafbac30c567d93"
+    },
+    "itemDefaults": {
+      "bytes": 20303,
+      "file": "item-defaults.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "itemDefaults"
+      },
+      "sha256": "e17380287714ba0480bddea8ee83087683cc2d18ce9e845c060393fef5c85d96"
+    },
+    "legacyBlocks": {
+      "bytes": 110589,
+      "file": "legacy-blocks.json",
+      "provenance": {
+        "corrections": {
+          "139:0": {
+            "from": "minecraft:cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+            "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none.",
+            "to": "minecraft:cobblestone_wall[east=none,south=none,north=none,west=none,up=false]"
+          },
+          "139:1": {
+            "from": "minecraft:mossy_cobblestone_wall[east=false,south=false,north=false,west=false,up=false]",
+            "reason": "Modern wall sides use none, low, or tall. A disconnected legacy side maps to none.",
+            "to": "minecraft:mossy_cobblestone_wall[east=none,south=none,north=none,west=none,up=false]"
+          },
+          "31:1": {
+            "from": "minecraft:short_grass",
+            "reason": "Before Minecraft 1.20.3, short grass uses the grass block ID.",
+            "to": "minecraft:grass"
+          }
+        },
+        "description": "WorldEdit-derived mappings preserved from MineRender, including its block-name, cauldron, and suspended tripwire updates. This table describes numeric block IDs through Java 1.12.2; it is not a mapping between arbitrary modern versions.",
+        "kind": "reviewed-legacy-mapping",
+        "source": "https://github.com/InventivetalentDev/MineRender/blob/7721b8f96ce1f87bd39cc8a9f3b879394da92d74/packages/minerender/src/model/multiblock/legacyBlocks.json",
+        "sourceFormat": "numeric-block-id:metadata",
+        "sourceMaxMinecraftVersion": "1.12.2",
+        "sourceSha256": "1cd2511e19051ed199f6f2185cd3b95a5936bd1ae847baf714c7414690ac6d93",
+        "targetVersion": "1.20.1",
+        "upstream": "https://github.com/EngineHub/WorldEdit/blob/master/worldedit-core/src/main/resources/com/sk89q/worldedit/world/registry/legacy.json"
+      },
+      "sha256": "b9d596eaafb8d7ac08210545e4431a78b8d35ceb53f1446d71d8720eca4baaed"
+    },
+    "potionColors": {
+      "bytes": 6095,
+      "file": "potion-colors.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "potionColors"
+      },
+      "sha256": "66ca855c14796c478b782b91b967854180107d157e1079d1241633c842debfa1"
+    }
+  },
+  "extractor": {
+    "repository": "InventivetalentDev/minecraft-extractors",
+    "revision": "00a2e67fefe533ce7ccf48efa6a431fc53b06d0e",
+    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
+  },
+  "minecraftVersion": "1.20.1",
+  "schemaVersion": 1,
+  "source": {
+    "client": {
+      "sha1": "0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838",
+      "url": "https://piston-data.mojang.com/v1/objects/0c3ec587af28e5a785c0b4a7b8a30f9a8f78f838/client.jar"
+    },
+    "mappings": {
+      "sha1": "6c48521eed01fe2e8ecdadbd5ae348415f3c47da",
+      "url": "https://piston-data.mojang.com/v1/objects/6c48521eed01fe2e8ecdadbd5ae348415f3c47da/client.txt"
+    },
+    "metadata": {
+      "sha1": "760a390e336b2b6202ec5906757cee3a929a7c85",
+      "url": "https://piston-meta.mojang.com/v1/packages/760a390e336b2b6202ec5906757cee3a929a7c85/1.20.1.json"
+    },
+    "remapper": {
+      "sha1": "59bd788e0a1bd339256711dee40015a62cdf3cd2",
+      "version": "2.0.18"
+    }
+  },
+  "unavailable": {},
+  "validation": {
+    "effectMixtures": 198,
+    "itemSamples": 6402,
+    "potionColors": 43
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "black": {
+    "fireworkColor": 1973019,
+    "id": 15,
+    "textColor": 0,
+    "textureDiffuseColor": 1908001
+  },
+  "blue": {
+    "fireworkColor": 2437522,
+    "id": 11,
+    "textColor": 255,
+    "textureDiffuseColor": 3949738
+  },
+  "brown": {
+    "fireworkColor": 5320730,
+    "id": 12,
+    "textColor": 9127187,
+    "textureDiffuseColor": 8606770
+  },
+  "cyan": {
+    "fireworkColor": 2651799,
+    "id": 9,
+    "textColor": 65535,
+    "textureDiffuseColor": 1481884
+  },
+  "gray": {
+    "fireworkColor": 4408131,
+    "id": 7,
+    "textColor": 8421504,
+    "textureDiffuseColor": 4673362
+  },
+  "green": {
+    "fireworkColor": 3887386,
+    "id": 13,
+    "textColor": 65280,
+    "textureDiffuseColor": 6192150
+  },
+  "light_blue": {
+    "fireworkColor": 6719955,
+    "id": 3,
+    "textColor": 10141901,
+    "textureDiffuseColor": 3847130
+  },
+  "light_gray": {
+    "fireworkColor": 11250603,
+    "id": 8,
+    "textColor": 13882323,
+    "textureDiffuseColor": 10329495
+  },
+  "lime": {
+    "fireworkColor": 4312372,
+    "id": 5,
+    "textColor": 12582656,
+    "textureDiffuseColor": 8439583
+  },
+  "magenta": {
+    "fireworkColor": 12801229,
+    "id": 2,
+    "textColor": 16711935,
+    "textureDiffuseColor": 13061821
+  },
+  "orange": {
+    "fireworkColor": 15435844,
+    "id": 1,
+    "textColor": 16738335,
+    "textureDiffuseColor": 16351261
+  },
+  "pink": {
+    "fireworkColor": 14188952,
+    "id": 6,
+    "textColor": 16738740,
+    "textureDiffuseColor": 15961002
+  },
+  "purple": {
+    "fireworkColor": 8073150,
+    "id": 10,
+    "textColor": 10494192,
+    "textureDiffuseColor": 8991416
+  },
+  "red": {
+    "fireworkColor": 11743532,
+    "id": 14,
+    "textColor": 16711680,
+    "textureDiffuseColor": 11546150
+  },
+  "white": {
+    "fireworkColor": 15790320,
+    "id": 0,
+    "textColor": 16777215,
+    "textureDiffuseColor": 16383998
+  },
+  "yellow": {
+    "fireworkColor": 14602026,
+    "id": 4,
+    "textColor": 16776960,
+    "textureDiffuseColor": 16701501
+  }
+}

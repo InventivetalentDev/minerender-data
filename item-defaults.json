@@ -1,0 +1,819 @@
+{
+  "minecraft:acacia_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:acacia_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:acacia_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:acacia_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:armor_stand": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:axolotl_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:bamboo_chest_raft": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:bamboo_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:bamboo_raft": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:bamboo_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:beetroot_soup": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:birch_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:birch_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:birch_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:birch_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:black_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:black_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:black_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:blue_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:blue_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:blue_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:bow": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 384,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:brown_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:brown_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:brown_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:brush": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 64,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:bucket": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:bundle": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cake": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:carrot_on_a_stick": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 25,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:chainmail_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 195,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:chainmail_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 240,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:chainmail_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 165,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:chainmail_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 225,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cherry_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cherry_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cherry_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:cherry_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:chest_minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cod_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:command_block_minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:creeper_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:crimson_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:crimson_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:crossbow": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 465,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cyan_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:cyan_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:cyan_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:dark_oak_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:dark_oak_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:dark_oak_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:dark_oak_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:debug_stick": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:decorated_pot": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 1561,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 429,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 528,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 363,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 1561,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_horse_armor": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 495,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 1561,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 1561,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:diamond_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 1561,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:egg": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:elytra": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 432,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:enchanted_book": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:enchanted_golden_apple": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 64
+  },
+  "minecraft:end_crystal": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 64
+  },
+  "minecraft:ender_pearl": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:experience_bottle": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 64
+  },
+  "minecraft:fishing_rod": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 64,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:flint_and_steel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 64,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:flower_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:furnace_minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:globe_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:goat_horn": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 32,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 91,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 112,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 77,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 32,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_horse_armor": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 105,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 32,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 32,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:golden_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 32,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:gray_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:gray_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:gray_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:green_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:green_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:green_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:honey_bottle": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:hopper_minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 195,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 240,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 165,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_horse_armor": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 225,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:iron_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:jungle_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:jungle_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:jungle_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:jungle_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:knowledge_book": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:lava_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:leather_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 65,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:leather_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 80,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:leather_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 55,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:leather_horse_armor": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:leather_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 75,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:light_blue_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:light_blue_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:light_blue_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:light_gray_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:light_gray_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:light_gray_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:lime_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:lime_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:lime_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:lingering_potion": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:magenta_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:magenta_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:magenta_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:mangrove_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:mangrove_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:mangrove_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:mangrove_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:milk_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:mojang_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:mushroom_stew": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_11": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_13": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_5": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_blocks": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_cat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_chirp": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_far": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_mall": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_mellohi": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_otherside": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_pigstep": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_relic": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_stal": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_strad": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_wait": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:music_disc_ward": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:nether_star": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 64
+  },
+  "minecraft:netherite_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 2031,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_boots": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 481,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_chestplate": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 592,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 407,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 2031,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_leggings": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 555,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 2031,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 2031,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:netherite_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 2031,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:oak_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:oak_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:oak_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:oak_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:orange_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:orange_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:orange_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:piglin_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:pink_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:pink_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:pink_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:potion": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:powder_snow_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:pufferfish_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:purple_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:purple_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:purple_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:rabbit_stew": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:red_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:red_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:red_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:saddle": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:salmon_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:shears": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 238,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:shield": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 336,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:skull_banner_pattern": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:snowball": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:splash_potion": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:spruce_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:spruce_chest_boat": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:spruce_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:spruce_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:spyglass": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:stone_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 131,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:stone_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 131,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:stone_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 131,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:stone_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 131,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:stone_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 131,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:suspicious_stew": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:tadpole_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:tnt_minecart": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:totem_of_undying": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:trident": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 250,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:tropical_fish_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:turtle_helmet": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 275,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:warped_fungus_on_a_stick": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 100,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:warped_hanging_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:warped_sign": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:water_bucket": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:white_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:white_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:white_shulker_box": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:wooden_axe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 59,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:wooden_hoe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 59,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:wooden_pickaxe": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 59,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:wooden_shovel": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 59,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:wooden_sword": {
+    "minecraft:damage": 0,
+    "minecraft:max_damage": 59,
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:writable_book": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:written_book": {
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:yellow_banner": {
+    "minecraft:max_stack_size": 16
+  },
+  "minecraft:yellow_bed": {
+    "minecraft:max_stack_size": 1
+  },
+  "minecraft:yellow_shulker_box": {
+    "minecraft:max_stack_size": 1
+  }
+}
