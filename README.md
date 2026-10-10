@@ -43,7 +43,7 @@ git push origin 1.21.11
 
 Pass `--push` to the publish command to fetch and push the version branch itself. Pushes never force-replace remote history. Raw data is available at `https://raw.githubusercontent.com/InventivetalentDev/minerender-data/<version>/<file>`.
 
-GitHub Actions verifies both initial versions on tooling changes, including a second offline extraction and byte-for-byte comparison. **Publish version data** accepts an exact version manually. Its daily schedule discovers unpublished releases after the date in `versions.json`, selects the JDK from Mojang metadata, validates two identical extractions, and publishes successful results. Snapshots require a manual run. Changed game APIs fail the job until the extractor is adapted; reviewed rules require a matching target profile before they are published.
+Scheduling is managed outside this repository. `node tools/versions.js` lists unpublished releases after the date in `versions.json`; it does not extract or publish data. Run the extraction, validation, and publication commands from your own scheduler. Changed game APIs fail extraction until the extractor is adapted; reviewed rules require a matching target profile before they are published.
 
 ## Migration scope
 
