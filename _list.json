@@ -1,14 +1,21 @@
 {
   "directories": [],
   "files": [
+    "block-appearance.json",
+    "block-culling.json",
+    "block-lighting.json",
     "block-states.json",
     "block-tints.json",
     "dyes.json",
+    "fluid-states.json",
     "fluids.json",
     "item-defaults.json",
+    "item-properties.json",
+    "legacy-biomes.json",
     "legacy-blocks.json",
     "manifest.json",
     "potion-colors.json",
+    "renames.json",
     "version.json"
   ]
 }
