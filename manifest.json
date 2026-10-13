@@ -1,6 +1,33 @@
 {
   "dataVersion": 3839,
   "datasets": {
+    "blockAppearance": {
+      "bytes": 18475,
+      "file": "block-appearance.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockAppearance"
+      },
+      "sha256": "ab8095fb3f7354b4b5f4cc44dd2e1eab65ac0b0516da1193eb471e6fe84df963"
+    },
+    "blockCulling": {
+      "bytes": 2389,
+      "file": "block-culling.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockCulling"
+      },
+      "sha256": "420cf214de1961e8cf9ace36cb382ada88fdadad78d255c1260a5cf3d087a51c"
+    },
+    "blockLighting": {
+      "bytes": 442933,
+      "file": "block-lighting.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockLighting"
+      },
+      "sha256": "5642b9f895df3483c4df5a315657f29eebca0a34a764e3cebc4799c1c9dde302"
+    },
     "blockStates": {
       "bytes": 339770,
       "file": "block-states.json",
@@ -37,6 +64,15 @@
       },
       "sha256": "84da4d30848abb3a50c4a4d30df9e943480b3fac52f96e9656f43a53253eeaa9"
     },
+    "fluidStates": {
+      "bytes": 683656,
+      "file": "fluid-states.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "fluidStates"
+      },
+      "sha256": "d0bda36ede58588ea346a77ecd6a0b5347ef4e92b88d4562c8e1cd7a1a7781ed"
+    },
     "fluids": {
       "bytes": 598,
       "file": "fluids.json",
@@ -54,6 +90,24 @@
         "registry": "itemDefaults"
       },
       "sha256": "0c9f457283bf478d149886271eb60791bd9c7baf972370225c0d2e7a789d54b2"
+    },
+    "itemProperties": {
+      "bytes": 795218,
+      "file": "item-properties.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "itemProperties"
+      },
+      "sha256": "4bc04e2e74427ebd9f0eed95b29f2f69da09faf9090eb9463d55200fd9fe469b"
+    },
+    "legacyBiomes": {
+      "bytes": 3275,
+      "file": "legacy-biomes.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "legacyBiomes"
+      },
+      "sha256": "b76abcdea7a736957e2e4dae7840afb93dd6a8dea00653e8f1cfe68569662b42"
     },
     "legacyBlocks": {
       "bytes": 110595,
@@ -90,12 +144,21 @@
         "registry": "potionColors"
       },
       "sha256": "2d1c0346c7aa9d595af4ff6476ee0f2d52ba0531581de178d34c8d5a74013246"
+    },
+    "renames": {
+      "bytes": 26789,
+      "file": "renames.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "renames"
+      },
+      "sha256": "049c6930dbca5a1249384843d7139240496237b3fffd8eb29b37ef47d55a8658"
     }
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "00a2e67fefe533ce7ccf48efa6a431fc53b06d0e",
-    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
+    "revision": "b623e8ceebb85a4c454eb047bb298bc7a2dbc4a2",
+    "sha256": "0dfde57c6b210a9c5afef565ce2534ef5a8fde592e89548b21df9628fc0ab0ee"
   },
   "minecraftVersion": "1.20.6",
   "schemaVersion": 1,
@@ -109,8 +172,8 @@
       "url": "https://piston-data.mojang.com/v1/objects/de46c8f33d7826eb83e8ef0e9f80dc1f08cb9498/client.txt"
     },
     "metadata": {
-      "sha1": "579bf36c8074836266b9f2cbdbe850cac62040f0",
-      "url": "https://piston-meta.mojang.com/v1/packages/579bf36c8074836266b9f2cbdbe850cac62040f0/1.20.6.json"
+      "sha1": "876ef010b51e9e646712d8322e383a84859d3b39",
+      "url": "https://piston-meta.mojang.com/v1/packages/876ef010b51e9e646712d8322e383a84859d3b39/1.20.6.json"
     },
     "remapper": {
       "sha1": "59bd788e0a1bd339256711dee40015a62cdf3cd2",
@@ -119,8 +182,24 @@
   },
   "unavailable": {},
   "validation": {
+    "appearanceStates": 26684,
+    "blockCullingBlocks": 1060,
+    "blockCullingFaces": 310872,
+    "blockCullingPairs": 25906,
+    "blockLayerChecks": 53368,
+    "blockOffsetChecks": 160104,
+    "componentRoundTrips": 1330,
     "effectMixtures": 234,
+    "fluidFaces": 3000,
+    "fluidSamples": 125,
+    "fluidStates": 26684,
+    "itemProperties": 1330,
     "itemSamples": 6781,
-    "potionColors": 46
+    "legacyBiomeIds": 87,
+    "legacyBiomeSamples": 91,
+    "persistentComponents": 8283,
+    "potionColors": 46,
+    "renameIds": 136,
+    "renameSamples": 279
   }
 }

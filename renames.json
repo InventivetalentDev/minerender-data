@@ -1,0 +1,1242 @@
+{
+  "baseDataVersion": 1519,
+  "blocks": {
+    "minecraft:azalea_leaves_flowers": {
+      "ranges": [
+        {
+          "before": 2717,
+          "to": "minecraft:flowering_azalea_leaves"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:bee_hive": {
+      "ranges": [
+        {
+          "before": 2209,
+          "to": "minecraft:beehive"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:cave_vines_body": {
+      "ranges": [
+        {
+          "before": 2700,
+          "to": "minecraft:cave_vines_plant"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:cave_vines_head": {
+      "ranges": [
+        {
+          "before": 2700,
+          "to": "minecraft:cave_vines"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:chiseled_grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:chiseled_deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:crimson_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:crimson_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:exposed_copper_block": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grass": {
+      "ranges": [
+        {
+          "before": 3692,
+          "to": "minecraft:short_grass"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grass_path": {
+      "ranges": [
+        {
+          "before": 2680,
+          "to": "minecraft:dirt_path"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_bricks": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_bricks"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tiles": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tiles"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:oxidized_copper_block": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:oxidized_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_lantern": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_lantern"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_wall_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_wall_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:stone_slab": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:smooth_stone_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:wall_sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_wall_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:warped_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:warped_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_copper": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:waxed_copper_block"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_copper"
+        },
+        {
+          "before": 2691,
+          "to": "minecraft:weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper_stairs"
+        }
+      ],
+      "registered": true
+    }
+  },
+  "entities": {
+    "minecraft:illager_beast": {
+      "ranges": [
+        {
+          "before": 1928,
+          "to": "minecraft:ravager"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:zombie_pigman": {
+      "ranges": [
+        {
+          "before": 2509,
+          "to": "minecraft:zombified_piglin"
+        }
+      ],
+      "registered": false
+    }
+  },
+  "format": "data-fixer-renames",
+  "items": {
+    "minecraft:angler_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:angler_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:archer_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:archer_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:arms_up_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:arms_up_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:azalea_leaves_flowers": {
+      "ranges": [
+        {
+          "before": 2717,
+          "to": "minecraft:flowering_azalea_leaves"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:bee_hive": {
+      "ranges": [
+        {
+          "before": 2209,
+          "to": "minecraft:beehive"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:blade_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:blade_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:brewer_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:brewer_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:burn_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:burn_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:cactus_green": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:green_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:chiseled_grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:chiseled_deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:crimson_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:crimson_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:dandelion_yellow": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:yellow_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:danger_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:danger_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:explorer_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:explorer_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:exposed_copper_block": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:friend_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:friend_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grass": {
+      "ranges": [
+        {
+          "before": 3692,
+          "to": "minecraft:short_grass"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grass_path": {
+      "ranges": [
+        {
+          "before": 2680,
+          "to": "minecraft:dirt_path"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_brick_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_brick_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_bricks": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_bricks"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tile_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tile_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_tiles": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:deepslate_tiles"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:grimstone_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:cobbled_deepslate_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:heart_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:heart_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:heartbreak_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:heartbreak_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:howl_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:howl_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:illager_beast_spawn_egg": {
+      "ranges": [
+        {
+          "before": 1928,
+          "to": "minecraft:ravager_spawn_egg"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:lightly_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:exposed_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:miner_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:miner_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:mourner_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:mourner_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:oxidized_copper_block": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:oxidized_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:plenty_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:plenty_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_slab": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_stairs": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:polished_grimstone_wall": {
+      "ranges": [
+        {
+          "before": 2696,
+          "to": "minecraft:polished_deepslate_wall"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:pottery_shard_archer": {
+      "ranges": [
+        {
+          "before": 3438,
+          "to": "minecraft:archer_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:pottery_shard_arms_up": {
+      "ranges": [
+        {
+          "before": 3438,
+          "to": "minecraft:arms_up_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:pottery_shard_prize": {
+      "ranges": [
+        {
+          "before": 3438,
+          "to": "minecraft:prize_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:pottery_shard_skull": {
+      "ranges": [
+        {
+          "before": 3438,
+          "to": "minecraft:skull_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:prize_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:prize_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:rose_red": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:red_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:scute": {
+      "ranges": [
+        {
+          "before": 3800,
+          "to": "minecraft:turtle_scute"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:semi_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:weathered_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:sheaf_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:sheaf_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:shelter_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:shelter_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:skull_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:skull_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:snort_pottery_shard": {
+      "ranges": [
+        {
+          "before": 3447,
+          "to": "minecraft:snort_pottery_sherd"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_lantern": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_lantern"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:stone_slab": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:smooth_stone_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:warped_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:warped_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_copper": {
+      "ranges": [
+        {
+          "before": 2691,
+          "to": "minecraft:waxed_copper_block"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_lightly_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_exposed_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper_slab"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:waxed_semi_weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:waxed_weathered_cut_copper_stairs"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:weathered_copper_block": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_copper"
+        },
+        {
+          "before": 2691,
+          "to": "minecraft:weathered_copper"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:weathered_cut_copper": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:weathered_cut_copper_slab": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:weathered_cut_copper_stairs": {
+      "ranges": [
+        {
+          "before": 2690,
+          "to": "minecraft:oxidized_cut_copper_stairs"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:zombie_pigman_spawn_egg": {
+      "ranges": [
+        {
+          "before": 2509,
+          "to": "minecraft:zombified_piglin_spawn_egg"
+        }
+      ],
+      "registered": false
+    }
+  }
+}
