@@ -1,0 +1,201 @@
+{
+  "offsetAlgorithm": "minecraft-position-v1",
+  "offsets": {
+    "minecraft:allium": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:azure_bluet": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:bamboo": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:bamboo_sapling": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:blue_orchid": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:closed_eyeblossom": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:cornflower": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:crimson_roots": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:dandelion": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:fern": {
+      "horizontal": 0.25,
+      "type": "xyz",
+      "vertical": 0.20000000298023224
+    },
+    "minecraft:golden_dandelion": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:hanging_roots": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:large_fern": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:lilac": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:lily_of_the_valley": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:mangrove_propagule": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:nether_sprouts": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:open_eyeblossom": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:orange_tulip": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:oxeye_daisy": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:peony": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:pink_tulip": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:pitcher_plant": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:pointed_dripstone": {
+      "horizontal": 0.125,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:poppy": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:red_tulip": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:rose_bush": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:short_dry_grass": {
+      "horizontal": 0.25,
+      "type": "xyz",
+      "vertical": 0.20000000298023224
+    },
+    "minecraft:short_grass": {
+      "horizontal": 0.25,
+      "type": "xyz",
+      "vertical": 0.20000000298023224
+    },
+    "minecraft:small_dripleaf": {
+      "horizontal": 0.25,
+      "type": "xyz",
+      "vertical": 0.10000000149011612
+    },
+    "minecraft:sunflower": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:tall_dry_grass": {
+      "horizontal": 0.25,
+      "type": "xyz",
+      "vertical": 0.20000000298023224
+    },
+    "minecraft:tall_grass": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:tall_seagrass": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:torchflower": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:warped_roots": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:white_tulip": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    },
+    "minecraft:wither_rose": {
+      "horizontal": 0.25,
+      "type": "xz",
+      "vertical": 0
+    }
+  },
+  "renderLayers": {
+    "cutout": "cutout",
+    "opaque": "solid",
+    "source": "sprite",
+    "translucent": "translucent"
+  }
+}

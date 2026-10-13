@@ -1,0 +1,112 @@
+{
+  "blocks": {
+    "minecraft:acacia_leaves": 0,
+    "minecraft:azalea_leaves": 0,
+    "minecraft:birch_leaves": 0,
+    "minecraft:black_stained_glass": 1,
+    "minecraft:black_stained_glass_pane": 2,
+    "minecraft:blue_ice": 1,
+    "minecraft:blue_stained_glass": 1,
+    "minecraft:blue_stained_glass_pane": 2,
+    "minecraft:brown_stained_glass": 1,
+    "minecraft:brown_stained_glass_pane": 2,
+    "minecraft:cherry_leaves": 0,
+    "minecraft:copper_bars": 2,
+    "minecraft:copper_grate": 1,
+    "minecraft:cyan_stained_glass": 1,
+    "minecraft:cyan_stained_glass_pane": 2,
+    "minecraft:dark_oak_leaves": 0,
+    "minecraft:exposed_copper_bars": 2,
+    "minecraft:exposed_copper_grate": 1,
+    "minecraft:flowering_azalea_leaves": 0,
+    "minecraft:frosted_ice": 1,
+    "minecraft:glass": 1,
+    "minecraft:glass_pane": 2,
+    "minecraft:gray_stained_glass": 1,
+    "minecraft:gray_stained_glass_pane": 2,
+    "minecraft:green_stained_glass": 1,
+    "minecraft:green_stained_glass_pane": 2,
+    "minecraft:honey_block": 1,
+    "minecraft:ice": 1,
+    "minecraft:iron_bars": 2,
+    "minecraft:jungle_leaves": 0,
+    "minecraft:lava": 3,
+    "minecraft:light_blue_stained_glass": 1,
+    "minecraft:light_blue_stained_glass_pane": 2,
+    "minecraft:light_gray_stained_glass": 1,
+    "minecraft:light_gray_stained_glass_pane": 2,
+    "minecraft:lime_stained_glass": 1,
+    "minecraft:lime_stained_glass_pane": 2,
+    "minecraft:magenta_stained_glass": 1,
+    "minecraft:magenta_stained_glass_pane": 2,
+    "minecraft:mangrove_leaves": 0,
+    "minecraft:mangrove_roots": 4,
+    "minecraft:oak_leaves": 0,
+    "minecraft:orange_stained_glass": 1,
+    "minecraft:orange_stained_glass_pane": 2,
+    "minecraft:oxidized_copper_bars": 2,
+    "minecraft:oxidized_copper_grate": 1,
+    "minecraft:pale_oak_leaves": 0,
+    "minecraft:pink_stained_glass": 1,
+    "minecraft:pink_stained_glass_pane": 2,
+    "minecraft:powder_snow": 1,
+    "minecraft:purple_stained_glass": 1,
+    "minecraft:purple_stained_glass_pane": 2,
+    "minecraft:red_stained_glass": 1,
+    "minecraft:red_stained_glass_pane": 2,
+    "minecraft:slime_block": 1,
+    "minecraft:spruce_leaves": 0,
+    "minecraft:tinted_glass": 1,
+    "minecraft:water": 5,
+    "minecraft:waxed_copper_bars": 2,
+    "minecraft:waxed_copper_grate": 1,
+    "minecraft:waxed_exposed_copper_bars": 2,
+    "minecraft:waxed_exposed_copper_grate": 1,
+    "minecraft:waxed_oxidized_copper_bars": 2,
+    "minecraft:waxed_oxidized_copper_grate": 1,
+    "minecraft:waxed_weathered_copper_bars": 2,
+    "minecraft:waxed_weathered_copper_grate": 1,
+    "minecraft:weathered_copper_bars": 2,
+    "minecraft:weathered_copper_grate": 1,
+    "minecraft:white_stained_glass": 1,
+    "minecraft:white_stained_glass_pane": 2,
+    "minecraft:yellow_stained_glass": 1,
+    "minecraft:yellow_stained_glass_pane": 2
+  },
+  "groups": {
+    "bars": [
+      "minecraft:copper_bars",
+      "minecraft:exposed_copper_bars",
+      "minecraft:iron_bars",
+      "minecraft:oxidized_copper_bars",
+      "minecraft:waxed_copper_bars",
+      "minecraft:waxed_exposed_copper_bars",
+      "minecraft:waxed_oxidized_copper_bars",
+      "minecraft:waxed_weathered_copper_bars",
+      "minecraft:weathered_copper_bars"
+    ]
+  },
+  "profiles": [
+    {
+      "type": "leaves"
+    },
+    {
+      "type": "same_block"
+    },
+    {
+      "group": "bars",
+      "type": "connected"
+    },
+    {
+      "kind": "lava",
+      "type": "fluid"
+    },
+    {
+      "type": "same_block_vertical"
+    },
+    {
+      "kind": "water",
+      "type": "fluid"
+    }
+  ]
+}
