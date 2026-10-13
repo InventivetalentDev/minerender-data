@@ -1,6 +1,33 @@
 {
   "dataVersion": 2730,
   "datasets": {
+    "blockAppearance": {
+      "bytes": 15624,
+      "file": "block-appearance.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockAppearance"
+      },
+      "sha256": "aa13ded9268c5fa1aae9dfe2bea233e0c78c06905c3d60c4097747326319fbfc"
+    },
+    "blockCulling": {
+      "bytes": 1963,
+      "file": "block-culling.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockCulling"
+      },
+      "sha256": "9b0e04a8dc4d94b80dc86710fd2430e559875e5446c1fabda96d9ffbc2715562"
+    },
+    "blockLighting": {
+      "bytes": 346450,
+      "file": "block-lighting.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "blockLighting"
+      },
+      "sha256": "77a9408af5b3a0a626ba4360cf7c3403a00ab9f660bac6028f5655da57970f43"
+    },
     "blockStates": {
       "bytes": 263168,
       "file": "block-states.json",
@@ -39,6 +66,15 @@
       },
       "sha256": "84da4d30848abb3a50c4a4d30df9e943480b3fac52f96e9656f43a53253eeaa9"
     },
+    "fluidStates": {
+      "bytes": 581265,
+      "file": "fluid-states.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "fluidStates"
+      },
+      "sha256": "674e8a69ce9bbbd678c7caaa91776573738069f712cfc85508047dc972b72a36"
+    },
     "fluids": {
       "bytes": 598,
       "file": "fluids.json",
@@ -56,6 +92,24 @@
         "registry": "itemDefaults"
       },
       "sha256": "46af03e2d9e72e19747251a9d683f3ad18aff34178583b0197edd331d7d5718e"
+    },
+    "itemProperties": {
+      "bytes": 259646,
+      "file": "item-properties.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "itemProperties"
+      },
+      "sha256": "4f87ceb62fca9f14b079626cf2cce930f879c99b0a16f5fd173d8a394d956329"
+    },
+    "legacyBiomes": {
+      "bytes": 3185,
+      "file": "legacy-biomes.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "legacyBiomes"
+      },
+      "sha256": "70c5692d5c7e5d13bd3db0505c4baf26a65e795dd37ee883928fd474fc218522"
     },
     "legacyBlocks": {
       "bytes": 110589,
@@ -97,12 +151,21 @@
         "registry": "potionColors"
       },
       "sha256": "547fe5f4cde2701868b97b99ea4f860988cc29b2bf3536354018cda9c331b027"
+    },
+    "renames": {
+      "bytes": 21601,
+      "file": "renames.json",
+      "provenance": {
+        "kind": "vanilla-runtime",
+        "registry": "renames"
+      },
+      "sha256": "927b3b505aabc31821bc2bc83a559835a533b1f87fee95d9c4b46c303e68efa4"
     }
   },
   "extractor": {
     "repository": "InventivetalentDev/minecraft-extractors",
-    "revision": "8c96abbc8f792091c0237ea1a9e1b7ad3aa7c5e9",
-    "sha256": "4685eb463900b5943bb6d7b0b7bff2386f71fb1e4e5b5c47050a7a421569174c"
+    "revision": "6d5c9a7b052ffe7193ab20f1d7e82abd042aa12c",
+    "sha256": "fdb8de654e0276bf3a28c0e7ae8d9ca70f23f3ce90e00996403a4759f6465dfd"
   },
   "minecraftVersion": "1.17.1",
   "schemaVersion": 1,
@@ -126,8 +189,24 @@
   },
   "unavailable": {},
   "validation": {
+    "appearanceStates": 20342,
+    "blockCullingBlocks": 898,
+    "blockCullingFaces": 268776,
+    "blockCullingPairs": 22398,
+    "blockLayerChecks": 40684,
+    "blockOffsetChecks": 122052,
+    "componentRoundTrips": 0,
     "effectMixtures": 192,
+    "fluidFaces": 2976,
+    "fluidSamples": 124,
+    "fluidStates": 20342,
+    "itemProperties": 1100,
     "itemSamples": 5625,
-    "potionColors": 43
+    "legacyBiomeIds": 81,
+    "legacyBiomeSamples": 85,
+    "persistentComponents": 0,
+    "potionColors": 43,
+    "renameIds": 109,
+    "renameSamples": 225
   }
 }
