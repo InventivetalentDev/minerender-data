@@ -1,0 +1,217 @@
+{
+  "baseDataVersion": 1519,
+  "blocks": {
+    "minecraft:bee_hive": {
+      "ranges": [
+        {
+          "before": 2209,
+          "to": "minecraft:beehive"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:crimson_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:crimson_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_lantern": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_lantern"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_wall_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_wall_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:stone_slab": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:smooth_stone_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:wall_sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_wall_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:warped_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:warped_fungus"
+        }
+      ],
+      "registered": false
+    }
+  },
+  "entities": {
+    "minecraft:illager_beast": {
+      "ranges": [
+        {
+          "before": 1928,
+          "to": "minecraft:ravager"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:zombie_pigman": {
+      "ranges": [
+        {
+          "before": 2509,
+          "to": "minecraft:zombified_piglin"
+        }
+      ],
+      "registered": false
+    }
+  },
+  "format": "data-fixer-renames",
+  "items": {
+    "minecraft:bee_hive": {
+      "ranges": [
+        {
+          "before": 2209,
+          "to": "minecraft:beehive"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:cactus_green": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:green_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:crimson_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:crimson_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:dandelion_yellow": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:yellow_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:illager_beast_spawn_egg": {
+      "ranges": [
+        {
+          "before": 1928,
+          "to": "minecraft:ravager_spawn_egg"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:rose_red": {
+      "ranges": [
+        {
+          "before": 1800,
+          "to": "minecraft:red_dye"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:sign": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:oak_sign"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_lantern": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_lantern"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:soul_fire_torch": {
+      "ranges": [
+        {
+          "before": 2528,
+          "to": "minecraft:soul_torch"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:stone_slab": {
+      "ranges": [
+        {
+          "before": 1802,
+          "to": "minecraft:smooth_stone_slab"
+        }
+      ],
+      "registered": true
+    },
+    "minecraft:warped_fungi": {
+      "ranges": [
+        {
+          "before": 2508,
+          "to": "minecraft:warped_fungus"
+        }
+      ],
+      "registered": false
+    },
+    "minecraft:zombie_pigman_spawn_egg": {
+      "ranges": [
+        {
+          "before": 2509,
+          "to": "minecraft:zombified_piglin_spawn_egg"
+        }
+      ],
+      "registered": false
+    }
+  }
+}
